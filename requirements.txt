@@ -1,0 +1,8 @@
+# Movie Review Sentiment Analysis using LSTM - Python dependencies
+# Install with:  pip install -r requirements.txt
+#
+# The minimum versions below are lower bounds and were not each tested.
+
+tensorflow>=2.12
+numpy>=1.24
+matplotlib>=3.7
